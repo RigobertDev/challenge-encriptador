@@ -222,7 +222,7 @@ a{
 }
 
 
-@media screen and (min-width:1147px) (max-width:1147px){
+@media screen and (max-width:1147px){
 
     .logo{
         margin: 10% auto;
